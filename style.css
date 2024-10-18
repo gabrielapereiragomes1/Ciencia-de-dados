@@ -20,23 +20,23 @@ header{
     padding: 1px;/*espaço interno do header*/
 }
 h1{
-    font-size: 2rem;/*tamanho da letra,
+    font-size: 2rem;/*tamanho da letra, 
                     medida rem do :root*/
     color:var(--bg-color); /*cor da letra*/
     font-weight: 700; /*weight define o negrito*/
 }
 nav{
     display: flex; /*área flexível navegável*/
-    justify-content: center; /*justificar conteúdo
+    justify-content: center; /*justificar conteúdo 
                             ao centro*/
     font-weight: 400; /*negrito*/
 }
 nav a{ /*link estático*/
     text-decoration: none; /*tirar o sublinhado*/
-    color:var(--bg-color);
-    margin:0 2rem 1rem 0rem; /*espaço externo cima,
+    color:var(--bg-color); 
+    margin:0 2rem 1rem 0rem; /*espaço externo cima, 
                             esquerda, baixo, direita*/
-    font-size: 1.2rem;  /*tamanho da letra
+    font-size: 1.2rem;  /*tamanho da letra 
                         equivalente a 18px*/
 }
 nav a:hover{ /*link interativo ao passar o mouse*/
