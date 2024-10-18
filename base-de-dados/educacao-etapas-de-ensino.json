@@ -1,10 +1,10 @@
 {
-    "Automóvel próprio": 6.0e8,
-    "Metrô": 3.0e8,
-    "Trem": 2.0e8,
-    "Ônibus": 3.0e8,
-    "Bicicleta": 2.0e8,
-    "Automóvel de aplicativo": 1.0e8,
-    "Caminhando": 2.0e8,
-    "Outros": 1.0e8
-  }
+  "Escolas Primárias": 2.5e9,
+  "Escolas Secundárias": 1.8e9,
+  "Faculdades": 0.7e9,
+  "Universidades": 0.6e9,
+  "Centros de Formação Profissional": 0.4e9,
+  "Cursos Online": 1.0e9,
+  "Educação de Adultos": 0.3e9,
+  "Outros": 0.1e9
+}
