@@ -1,6 +1,6 @@
 import { getCSS, tickConfig } from "./common.js"
 async function quantidadeUsuarios() {
-    const url = 'https://raw.githubusercontent.com/romulopena/ciencia-de-dados/refs/heads/main/basededados/educacao-etapas-de-ensino.json'
+    const url = 'https://raw.githubusercontent.com/gabrielapereira/ciencia-de-dados/refs/heads/main/basededados/educacao-etapas-de-ensino.json'
     const res = await fetch(url)
     const dados = await res.json()
     const nomeDasInstituicoes = Object.keys(dados)
